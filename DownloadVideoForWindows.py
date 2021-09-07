@@ -8,5 +8,5 @@ v = new(video)
 stream = v.streams
 for i in stream:
 	print(i)
-	stream[1].download()
+	stream[0].download()
 print("The Video is Download : ")
