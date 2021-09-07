@@ -6,4 +6,4 @@
 ## git clone https://https://github.com/NullPro-22/Download-From-Youtube
 ## cd Download-From-Youtube
 ## pip3 install pafy
-## python3 downloadvideo.py
+## python3 filename.py
